@@ -53,11 +53,9 @@
 
             希望本示例代码能帮助你更好地理解和掌握MFC下的Socket编程。祝编程愉快！
 
-            ## 下载链接
-            [MFCSocket编程示例TCP服务端与多个客户端通信](https://pan.quark.cn/s/8f354ef1245d) 
+## 下载链接
+[MFCSocket编程示例TCP服务端与多个客户端通信](https://pan.quark.cn/s/8f354ef1245d) 
+(备用: [备用下载](https://pan.baidu.com/s/1o95Rjr3nRlV0NPvJ99kScg?pwd=alz0))
 
-            (备用: [备用下载](https://pan.baidu.com/s/1o95Rjr3nRlV0NPvJ99kScg?pwd=alz0))
-
-            ## 说明
-
-            该仓库仅用于学习交流，请勿用于商业用途。
+## 说明
+该仓库仅用于学习交流，请勿用于商业用途。
